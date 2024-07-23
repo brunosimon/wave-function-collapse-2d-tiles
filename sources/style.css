@@ -1,0 +1,22 @@
+body
+{
+    background: #eeeeee;
+}
+
+.ui
+{
+}
+
+.ui .line
+{
+    display: flex;
+}
+
+.ui .cell
+{
+    width: 64px;
+    height: 64px;
+    background-color: #333;
+    background-size: 100% 100%;
+    image-rendering: pixelated;
+}
